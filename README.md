@@ -2,8 +2,8 @@
 ## Latihan 1
 
 ## PROGRAM
-[!Gambar 1](ss/ss1.png)
-[!Gambar 2](ss/ss2.png)
+![Gambar 1](ss/ss1.png)
+![Gambar 2](ss/ss2.png)
 
 ## Penjelasan
 *Kontak Awal
@@ -39,15 +39,15 @@ print(a.items())
 del a["Amel"]
 
 ## OUTPUT
-[!Gambar 3](ss/ss3.png)
-[!Gambar 4](ss/ss4.png)
-[!Gambar 5](ss/ss5.png)
+![Gambar 3](ss/ss3.png)
+![Gambar 4](ss/ss4.png)
+![Gambar 5](ss/ss5.png)
 
 ## Praktikum
 
 ## PROGRAM
-[!Gambar 6](ss/ss6.png)
-[!Gambar 7](ss/ss7.png)
+![Gambar 6](ss/ss6.png)
+![Gambar 7](ss/ss7.png)
 
 ## Penjelasan
 *Buatlah kamus yang akan diinput dengan data
@@ -141,6 +141,6 @@ elif  c . lower () ==  'k' :
          break
 
 ## OUTPUT
-[!Gambar 8](ss/ss8.png)
+![Gambar 8](ss/ss8.png)
 
 ## SELESAI
